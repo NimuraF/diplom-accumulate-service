@@ -1,0 +1,122 @@
+[
+  {
+    "from": "USD",
+    "to": "EUR",
+    "rate": 0.9,
+    "exchange": "Binance"
+  },
+  {
+    "from": "EUR",
+    "to": "GBP",
+    "rate": 0.9,
+    "exchange": "Binance"
+  },
+  {
+    "from": "GBP",
+    "to": "USD",
+    "rate": 1.4,
+    "exchange": "Binance"
+  },
+  {
+    "from": "BTC",
+    "to": "ETH",
+    "rate": 14.0,
+    "exchange": "Coinbase"
+  },
+  {
+    "from": "ETH",
+    "to": "LTC",
+    "rate": 0.1,
+    "exchange": "Coinbase"
+  },
+  {
+    "from": "LTC",
+    "to": "BTC",
+    "rate": 0.8,
+    "exchange": "Coinbase"
+  },
+  {
+    "from": "USD",
+    "to": "JPY",
+    "rate": 110.0,
+    "exchange": "Kraken"
+  },
+  {
+    "from": "JPY",
+    "to": "CHF",
+    "rate": 0.008,
+    "exchange": "Kraken"
+  },
+  {
+    "from": "CHF",
+    "to": "USD",
+    "rate": 1.2,
+    "exchange": "Kraken"
+  },
+  {
+    "from": "EUR",
+    "to": "USD",
+    "rate": 1.11,
+    "exchange": "Bitfinex"
+  },
+  {
+    "from": "USD",
+    "to": "CNY",
+    "rate": 7.0,
+    "exchange": "Bitfinex"
+  },
+  {
+    "from": "CNY",
+    "to": "EUR",
+    "rate": 0.13,
+    "exchange": "Bitfinex"
+  },
+  {
+    "from": "XRP",
+    "to": "ADA",
+    "rate": 0.6,
+    "exchange": "Huobi"
+  },
+  {
+    "from": "ADA",
+    "to": "SOL",
+    "rate": 0.002,
+    "exchange": "Huobi"
+  },
+  {
+    "from": "SOL",
+    "to": "XRP",
+    "rate": 1000.0,
+    "exchange": "Huobi"
+  },
+  {
+    "from": "USD",
+    "to": "GBP",
+    "rate": 0.75,
+    "exchange": "Binance"
+  },
+  {
+    "from": "EUR",
+    "to": "JPY",
+    "rate": 130.0,
+    "exchange": "Binance"
+  },
+  {
+    "from": "BTC",
+    "to": "USD",
+    "rate": 30000.0,
+    "exchange": "Coinbase"
+  },
+  {
+    "from": "ETH",
+    "to": "USD",
+    "rate": 2000.0,
+    "exchange": "Coinbase"
+  },
+  {
+    "from": "LTC",
+    "to": "USD",
+    "rate": 100.0,
+    "exchange": "Coinbase"
+  }
+]
